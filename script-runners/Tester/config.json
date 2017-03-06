@@ -1,0 +1,23 @@
+{
+	"cf_path": "/home/mahdi/Courses/Network/95-s/PA0/Tester/script-runners/Tester/codes",
+	"judge_path": "/home/mahdi/Courses/Network/95-s/PA0/Tester/script-runners/Tester/judge",
+	"sleep_time": 4,
+	"partov_server": {
+		"ip": "213.233.169.80",
+		"port": 7890,
+		"iface": "lo",
+		"node_prefix": "client-",
+		"renew_server": false,
+		"map": "DHCP_Simple"
+	},
+	"loggers": [
+		{
+			"type": "base.logger.PrettyLogger",
+			"output": "stdout"
+		},
+		{
+			"type": "base.logger.PlainLogger",
+			"output": "log.out"
+		}
+	]
+}
