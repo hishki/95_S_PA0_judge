@@ -1,7 +1,7 @@
 {
-	"cf_path": "/home/mahdi/Courses/Network/95-s/PA0/Tester/script-runners/Tester/codes",
-	"judge_path": "/home/mahdi/Courses/Network/95-s/PA0/Tester/script-runners/Tester/judge",
-	"sleep_time": 4,
+	"cf_path": "/home/ehsun/tmp/beh/95_S_PA0_judge/script-runners/Tester/codes",
+	"judge_path": "/home/ehsun/tmp/beh/95_S_PA0_judge/script-runners/Tester/judge",
+	"sleep_time": 3,
 	"partov_server": {
 		"ip": "213.233.169.80",
 		"port": 7890,
