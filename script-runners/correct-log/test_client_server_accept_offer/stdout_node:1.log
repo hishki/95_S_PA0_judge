@@ -1,0 +1,4 @@
+offer 192.168.1.8 to E4D2443221FB
+offer 192.168.1.9 to E4D2443221F6
+assign 192.168.1.8 to E4D2443221FB for 10
+192.168.1.9 back to pool

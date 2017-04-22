@@ -22,6 +22,7 @@ def main():
     git_pull_path = os.path.dirname(os.path.dirname(os.path.dirname(cwd)))
     output = subprocess.check_output(["git", "pull"], cwd=git_pull_path)
     print output
+    cwd = config['cf_path']
     client_manager = ClientManager(cwd, judge=False)
 
     partov_server = PartovServer(client_manager, cwd, judge=False)

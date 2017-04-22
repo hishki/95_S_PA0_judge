@@ -1,7 +1,7 @@
 {
-	"cf_path": "/home/ramin/95_S_PA0_judge/script-runners/Tester/codes",
-	"judge_path": "/home/ramin/95_S_PA0_judge/script-runners/Tester/judge",
-	"sleep_time": 3,
+	"cf_path": "/home/mahdi/CE40443_PA0_Spring96_Judge/CE40443_PA0_Spring96_Judge/script-runners/Tester/codes",
+	"judge_path": "/home/mahdi/CE40443_PA0_Spring96_Judge/CE40443_PA0_Spring96_Judge/script-runners/Tester/judge",
+	"sleep_time": 2,
 	"partov_server": {
 		"ip": "213.233.169.80",
 		"port": 7890,
